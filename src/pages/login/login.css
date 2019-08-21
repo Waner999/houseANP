@@ -1,0 +1,21 @@
+
+.pink{
+    background: pink !important;
+    color: #fff !important;
+}
+.login-Logo{
+    width: 150px;
+}
+a{
+    color: rgb(187, 84, 101);
+}
+.bottomDiv{
+    position: fixed;
+    bottom: 0;
+    left: 28%;
+    color: rgb(148, 40, 58);
+}
+.am-input-item{
+    border-bottom: 1px solid rgb(233, 229, 229) !important;
+    border-radius: 10px;
+}
